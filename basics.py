@@ -21,3 +21,11 @@ print("Usaremos Range")
 #list(range(número mínimo, número máximo))
 studentGrades2= list(range(0, 11 , 2))
 print (studentGrades2)
+
+#Tipo de Datos
+print("Tipo de Datos")
+
+notas_estudiante= [9.1 , 8.8 , 7.5]
+#Dir sirve para mostrar todo lo que se puede hacer con un tipo de dato específico
+dir(list)
+print(dir(list))
